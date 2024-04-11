@@ -41,4 +41,5 @@ log_autovacuum_min_duration = 0
 
 # CSV Configuration
 log_destination = 'csvlog'
+log_directory=/logs
 
